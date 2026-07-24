@@ -29,6 +29,7 @@ Python, Pandas, SQLite, BeautifulSoup (para ler o HTML) e Matplotlib.
 
 ## Como rodar
 
-Abra o notebook `Projeto_Eventos_Festas_Corrigido.ipynb` no Jupyter ou Google Colab e
-execute as células em ordem. Os arquivos de origem (`eventos.sql`, `festas.json.json`,
-`index.html`) precisam estar na mesma pasta do notebook.
+O notebook (`Projeto_Eventos_Festas.ipynb`) já está executado, com os resultados e
+gráficos salvos — dá pra ver tudo direto no GitHub, sem precisar rodar nada. Se quiser
+rodar de novo do zero, é só abrir no Jupyter ou Google Colab; nesse caso, os arquivos de
+origem (`eventos.sql`, `festas.json.json`, `index.html`) precisam estar na mesma pasta.
