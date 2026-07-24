@@ -1,8 +1,7 @@
 # Pipeline de Dados - Sistema de Eventos e Festas
 
-Projeto da disciplina de Extração e Análise de Dados. O objetivo era montar um pipeline
-completo de dados a partir de três fontes diferentes e responder perguntas de negócio
-com base nelas.
+Projeto da disciplina de Extração e Análise de Dados. A ideia era juntar 3 fontes de
+dados diferentes numa base só e responder algumas perguntas em cima disso.
 
 ## Fontes de dados
 
